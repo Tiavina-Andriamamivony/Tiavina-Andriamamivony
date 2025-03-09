@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Tiavina-Andriamamivony
-- 👀 I’m interested in science (maths, physics: mechanics, astrophysics, quantum, chemistry, biology) , new technologies, basketball , litterature , anime, cinematography and videogames 
-- 🌱 I’m currently learning machine learning with *Brain.js* and python , frontEnd with *Next 15* and *React 19*, Backend with *Adonis.js*, *Express.js* and *SpringBoot*
-- 💞️ I’m looking to collaborate on fun and interactive project with interesting goals
-- ⚡ Fun fact: I'm a fast learner but I also forget faster as I lose interest the reason why I'm always in little project for maintening interest and passion 
+# ✨ Tiavina Andriamamivony  
 
-<!---
-Tiavina-Andriamamivony/Tiavina-Andriamamivony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m **@Tiavina-Andriamamivony**  
+
+## 👀 Interests  
+I’m passionate about **science** (*maths, physics (mechanics, astrophysics, quantum), chemistry, biology*), **new technologies**, **basketball**, **literature**, **anime**, **cinematography**, and **video games**.  
+
+## 🌱 Currently learning  
+- 🤖 Machine Learning with *Brain.js* and **Python**  
+- 🎨 Frontend development with *Next.js 15* and **React 19**  
+- 🛠️ Backend development with **Adonis.js**, **Express.js**, and **Spring Boot**  
+
+## 💡 Looking for collaborations on  
+Fun and interactive projects with **interesting goals**! 🚀  
+
+## ⚡ Fun fact  
+I'm a **fast learner**, but I also forget things quickly if I lose interest! That’s why I always work on **small projects** to keep my **passion alive**. 🎯  
+
+---
+
+🚀 *Feel free to connect with me!*  
